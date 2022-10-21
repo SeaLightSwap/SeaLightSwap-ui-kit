@@ -1,0 +1,22 @@
+{
+  "name": "sealightswap-uikit",
+  "version": "1.0.0",
+  "description": "Ui-kit of Sealightswap Protocol",
+  "main": "setupTests.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nikomatt69/sealightswap-uikit.git"
+  },
+  "keywords": [
+    "sealightswap"
+  ],
+  "author": "nikoemme",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nikomatt69/sealightswap-uikit/issues"
+  },
+  "homepage": "https://github.com/nikomatt69/sealightswap-uikit#readme"
+}
